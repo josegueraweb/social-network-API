@@ -38,9 +38,9 @@ The best way of contributing to this project is to help refactor the code! Sugge
 ## Credits
 GitHub: @josegueraweb
 
-- [SOURCE]()
+- [SOURCE](https://github.com/josegueraweb/social-network-API)
 
-- [LIVE SITE]()
+- [VIDEO WALKTHROUGH -- COMING SOON!]()
 
 ## License
 This project is protected under the MIT License.
